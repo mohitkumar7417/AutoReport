@@ -1,0 +1,8 @@
+[project]
+name = "autoreport"
+version = "0.1.0"
+description = "Automated Report and Analytics Generator"
+requires-python = ">=3.11"
+
+[project.scripts]
+autoreport = "autoreport.main:app"
