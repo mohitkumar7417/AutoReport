@@ -1,0 +1,16 @@
+title: "Automated Sales Report"
+
+sections:
+  summary:
+    enabled: true
+
+  charts:
+    enabled: true
+    types:
+      - bar
+      - line
+      - pie
+
+  metadata:
+    author: "AutoReport System"
+    version: "1.0"
